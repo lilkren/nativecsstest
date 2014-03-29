@@ -18,7 +18,7 @@ navbar{
 -max-ios6.1-tint-color:#811;
 -min-ios7-tint-color:white;
 color:white;
-background:red,linear-gradient(bottom,red,#811);
+background:red,linear-gradient(bottom,green,#811);
 -ios-translucent:false;
 }
 
